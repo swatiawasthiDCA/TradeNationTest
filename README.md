@@ -1,10 +1,11 @@
-# TradeNationTest
-Trade Nation Cypress automation Test
+# Clone Project
+git clone https://github.com/swatiawasthiDCA/TradeNationTest.git
 
-# Pre-requisite
-Install node, npm and npx
+# Pre-installation
+Install node and npm in your machine
 
-# Install dependencies
+# Go inside project folder and Install dependencies via Package.json  
+cd TradeNationTest
 npm install 
 
 # Run test 
